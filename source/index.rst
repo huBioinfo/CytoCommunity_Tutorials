@@ -9,5 +9,5 @@ CytoCommunity
 .. toctree::
    :maxdepth: 2
 
-   2020/Tutorial 1
-   2020/Tutorial 2
+   Tutorial 1
+   Tutorial 2

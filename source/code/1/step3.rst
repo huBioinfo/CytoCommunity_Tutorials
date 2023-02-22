@@ -31,5 +31,6 @@ Step3: Consensus Clustering
  write.table(finalClass, file = "ConsensusLabel_MajorityVoting.csv", append = FALSE, quote = FALSE, row.names = FALSE, col.names = FALSE)
 
 
+**Output**
 
-当代
+.. image:: /image/Tutorial1/step3.png

@@ -141,5 +141,10 @@ Step4: Visualization
 
 **Output**
 
+The output results are as follows:
+
 .. image:: ../../../image/Tutorial2/step4a.png
 
+TCN:
+
+.. image:: ../../../image/Tutorial2/TCN.png

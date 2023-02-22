@@ -230,5 +230,6 @@ Step2: Unsupervised Soft Cluster Learning
 
 
 
+**Output**
 
-当代
+.. image:: ../../../image/Tutorial2/step2.png

@@ -47,7 +47,7 @@ Step0: Construct KNNgraph
     filename0 = InputFolderName + region_name + "_EdgeIndex.txt"
     np.savetxt(filename0, KNNgraph_EdgeIndex, delimiter='\t', fmt='%i')  #save as integers. Checked the bidirectional edges.
     print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
-```
 
-Output
-===============
+
+**Output**
+

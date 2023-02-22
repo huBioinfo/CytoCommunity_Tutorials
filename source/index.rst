@@ -12,3 +12,5 @@ CytoCommunity - Unsupervised and supervised discovery of tissue cellular neighbo
 
    code/Tutorial 1
    code/Tutorial 2
+
+.. image:: ../image/overview.png

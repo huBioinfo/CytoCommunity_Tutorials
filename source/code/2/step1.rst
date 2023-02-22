@@ -83,5 +83,6 @@ Step1: DataImport
 
 
 
+**Output**
 
-发
+.. image:: ../../../image/Tutorial2/step1.png

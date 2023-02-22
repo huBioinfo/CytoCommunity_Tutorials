@@ -49,4 +49,6 @@ Step0: Construct KNNgraph
     print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
 
-是
+**Output**
+
+.. image:: ../../../image/Tutorial2/step0b.png

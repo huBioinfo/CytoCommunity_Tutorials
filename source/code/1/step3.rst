@@ -33,4 +33,4 @@ Step3: Consensus Clustering
 
 **Output**
 
-.. image:: /image/Tutorial1/step3.png
+.. image:: ../../../image/Tutorial1/step3.png

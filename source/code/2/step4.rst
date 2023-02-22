@@ -139,8 +139,7 @@ Step4: Visualization
  print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
 
-Output
-========
+**Output**
 
 .. image:: /image/Tutorial2/TCN_plot/TCN_patient1.png
 .. image:: /image/Tutorial2/TCN_plot/TCN_patient2.png

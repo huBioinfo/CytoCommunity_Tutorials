@@ -121,5 +121,6 @@ Step3: Consensus Clustering
  Sys.time()
 
 
+**Output**
 
-当代
+.. image:: ../../../image/Tutorial2/step3a.png

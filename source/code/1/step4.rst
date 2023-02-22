@@ -110,8 +110,8 @@ Step4: Visualization
 
 **Output**
 
-.. image:: /image/Tutorial1/step4a.png
+.. image:: ../../../image/Tutorial1/step4a.png
 
-.. image:: /image/Tutorial1/step4_TCN.png
+.. image:: ../../../image/Tutorial1/step4_TCN.png
 
-.. image:: /image/Tutorial1/step4_celltype.png
+.. image:: ../../../image/Tutorial1/step4_celltype.png

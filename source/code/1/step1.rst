@@ -81,4 +81,4 @@ Step1: DataImport
 
 **Output**
 
-.. image:: /image/Tutorial1/step1.png
+.. image:: ../../../image/Tutorial1/step1.png

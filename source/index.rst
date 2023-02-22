@@ -3,11 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-CytoCommunity
-==========================
+CytoCommunity - Unsupervised and supervised discovery of tissue cellular neighborhoods from cell phenotypes
+=====================================================================================================================
+
 
 .. toctree::
    :maxdepth: 2
 
-   Tutorial 1
-   Tutorial 2
+   code/Tutorial 1
+   code/Tutorial 2

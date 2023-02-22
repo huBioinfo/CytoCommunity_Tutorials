@@ -4,8 +4,8 @@ Step0: Construct KNNgraph
 .. toctree::
    :maxdepth: 1
 
+::
 
-```bash
    from sklearn.neighbors import kneighbors_graph
    import numpy as np
    import pandas as pd
@@ -49,5 +49,5 @@ Step0: Construct KNNgraph
     print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 ```
 
-# Output
-
+Output
+===============

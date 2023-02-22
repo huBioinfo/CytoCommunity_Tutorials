@@ -108,4 +108,10 @@ Step4: Visualization
  target_graph_map.to_csv(TargetGraph_dataframe_filename, na_rep="NULL", index=False) #remove row index.
 
 
-方法
+**Output**
+
+.. image:: /image/Tutorial1/step4a.png
+
+.. image:: /image/Tutorial1/step4_TCN.png
+
+.. image:: /image/Tutorial1/step4_celltype.png

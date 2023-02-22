@@ -51,6 +51,4 @@ Step0: Construct KNNgraph
 
 **Output**
 
-.. image:: 
-/image/Tutorial1/step0b.png
-
+.. image:: /image/Tutorial1/step0b.png

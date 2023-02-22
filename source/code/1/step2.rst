@@ -163,6 +163,6 @@ Step2: Unsupervised Soft Cluster Learning
  print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
 
+**Output**
 
-
-当代
+.. image:: /image/Tutorial1/step2.png

@@ -142,5 +142,5 @@ Step4: Visualization
 Output
 ========
 
-.. image:: ../image/Tutorial 2/TCN_plot/TCN_patient1.png
-.. image:: ../image/Tutorial 2/TCN_plot/TCN_patient2.png
+.. image:: ../image/Tutorial2/TCN_plot/TCN_patient1.png
+.. image:: ../image/Tutorial2/TCN_plot/TCN_patient2.png

@@ -79,6 +79,6 @@ Step1: DataImport
  dataset = SpatialOmicsImageDataset('./', transform=T.ToDense(max_nodes))                 
 
 
+**Output**
 
-
-发
+.. image:: /image/Tutorial1/step1.png

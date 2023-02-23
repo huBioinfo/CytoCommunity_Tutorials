@@ -148,3 +148,7 @@ The output results are as follows:
 TCN:
 
 .. image:: ../../../image/Tutorial2/TCN.png
+
+CellType:
+
+.. image:: ../../../image/Tutorial2/celltype.png

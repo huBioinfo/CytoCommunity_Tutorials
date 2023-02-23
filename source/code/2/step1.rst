@@ -1,4 +1,4 @@
-Step1: DataImport
+Step1: Data importing
 ==========================================================
 
 .. toctree::

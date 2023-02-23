@@ -1,4 +1,4 @@
-Step0: Construct KNNgraph
+Step0: KNNgraph construction
 ==========================================================
 
 .. toctree::

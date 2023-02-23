@@ -1,4 +1,4 @@
-Step2: Unsupervised Soft Cluster Learning
+Step2: Supervised Soft Cluster Learning
 ==========================================================
 
 .. toctree::

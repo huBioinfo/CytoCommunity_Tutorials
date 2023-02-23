@@ -141,14 +141,14 @@ Step4: Visualization
 
 **Output**
 
-The output results are as follows:
+The output is as follows:
 
 .. image:: ../../../image/Tutorial2/step4a.png
 
-TCN:
+TCN plot:
 
 .. image:: ../../../image/Tutorial2/TCN.png
 
-CellType:
+Cell type plot:
 
 .. image:: ../../../image/Tutorial2/celltype.png

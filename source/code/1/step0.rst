@@ -52,7 +52,6 @@ Step0: KNN-graph construction
 
 **Input**
 
-``` txt
 ── scRNAseq-data
    ├─ scRNAseq_BasalCells.csv
    ├─ scRNAseq_BCells.csv
@@ -61,7 +60,6 @@ Step0: KNN-graph construction
    ├─ scRNAseq_LuminalEpithelialCells.csv
    ├─ scRNAseq_Macrophages.csv
    └─ scRNAseq_TCells.csv
-```
 
 **Output**
 

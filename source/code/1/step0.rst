@@ -65,5 +65,14 @@ Step0: KNN-graph construction
 
 **Output**
 
-.. image:: ../../../image/Tutorial1/step0b.png
+::
+
+ ── scRNAseq-data
+    ├─ scRNAseq_BasalCells.csv
+    ├─ scRNAseq_BCells.csv
+    ├─ scRNAseq_EndothelialCells.csv
+    ├─ scRNAseq_Fibroblasts.csv
+    ├─ scRNAseq_LuminalEpithelialCells.csv
+    ├─ scRNAseq_Macrophages.csv
+    └─ scRNAseq_TCells.csv
 

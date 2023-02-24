@@ -130,13 +130,13 @@ For each image, Step3 generates the following files: cluster assign matrix, node
  ── ImageCollection
     ├─ patient1
     |  ├─ ClusterAssignMatrix1_Time1_Fold1.csv
-    |                      ⋮
+    |  ├─                   ⋮
     |  ├─ ClusterAssignMatrix1_Time10_Fold10.csv
     |  ├─ GraphIdx_Time1_Fold1.csv
-    |                ⋮
+    |  ├─             ⋮
     |  ├─ GraphIdx_Time10_Fold10.csv
     |  ├─ NodeMask_Time1_Fold1.csv
-    |               ⋮
+    |  ├─            ⋮
     |  ├─ NodeMask_Time10_Fold10.csv
     |  └─ ConsensusLabel_MajorityVoting.csv
     ├─ patien2

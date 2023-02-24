@@ -237,11 +237,11 @@ For each fold in each round of the training process, this step generates a folde
 
  ── Time1
     ├─ Fold1
-      ├─ ClusterAdjMatrix1_0.csv
-      ├─ ClusterAssignMatrix1_0.csv
-      ├─ GraphIdx_0.csv
-      ├─ NodeMask_0.csv
-      ├─ Epoch_TrainLoss.csv
-      ├─ ModelPrediction.csv
-      └─ TestSet_Pr_Pred_Truth.csv
+       ├─ ClusterAdjMatrix1_0.csv
+       ├─ ClusterAssignMatrix1_0.csv
+       ├─ GraphIdx_0.csv
+       ├─ NodeMask_0.csv
+       ├─ Epoch_TrainLoss.csv
+       ├─ ModelPrediction.csv
+       └─ TestSet_Pr_Pred_Truth.csv
     

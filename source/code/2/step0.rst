@@ -49,6 +49,29 @@ Step0: KNN-graph construction
     print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
 
+**Input**
+
+The example input data of this part is a KNN graph constructed based on MIBI-TNBC data, including a image name list and cell type label, cell spatial coordinate, edge index, gragh index, gragh label and node attribute files. Here we take patient1 for an example as follows:
+
+::
+
+ ── MIBI-TNBC data
+    ├─ patient1_CellTypeLabel.txt
+    ├─ patient1_Coordinates.txt
+    ├─ patient1_GraghIndex.txt
+    ├─ patient1_GraghLabel.txt
+    └─ patient1_NodeAttr.txt
+
 **Output**
 
-.. image:: ../../../image/Tutorial2/step0b.png
+We use Step0 to construct KNN graghs and prepare data for the subsequent steps, and this step produces "EdgeIndex.txt" file for each input image.
+
+::
+
+ ── MIBI-TNBC data
+    ├─ patient1_CellTypeLabel.txt
+    ├─ patient1_Coordinates.txt
+    ├─ patient1_GraghIndex.txt
+    ├─ patient1_GraghLabel.txt
+    ├─ patient1_NodeAttr.txt
+    └─ patient1_EdgeIndex.txt

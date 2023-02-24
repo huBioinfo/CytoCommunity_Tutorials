@@ -110,8 +110,19 @@ Step4: Visualization
 
 **Output**
 
-.. image:: ../../../image/Tutorial1/step4a.png
+After this step, we will obtain a single-cell saptial map colored by identified TCNs.
+
+::
+
+ ── TCN_MajorityVoting.pdf
+ ── TargetGraphDF.csv
+ ── CellType.pdf
+ 
+ 
+TCN plot:
 
 .. image:: ../../../image/Tutorial1/step4_TCN.png
+
+Cell type plot:
 
 .. image:: ../../../image/Tutorial1/step4_celltype.png

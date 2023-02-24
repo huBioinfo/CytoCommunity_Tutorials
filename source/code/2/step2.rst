@@ -1,4 +1,4 @@
-Step2: Supervised Soft Cluster Learning
+Step2: Supervised soft TCN assignment
 ==========================================================
 
 .. toctree::

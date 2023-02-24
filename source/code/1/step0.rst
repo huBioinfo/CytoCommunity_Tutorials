@@ -52,14 +52,16 @@ Step0: KNN-graph construction
 
 **Input**
 
-── scRNAseq-data
-   ├─ scRNAseq_BasalCells.csv
-   ├─ scRNAseq_BCells.csv
-   ├─ scRNAseq_EndothelialCells.csv
-   ├─ scRNAseq_Fibroblasts.csv
-   ├─ scRNAseq_LuminalEpithelialCells.csv
-   ├─ scRNAseq_Macrophages.csv
-   └─ scRNAseq_TCells.csv
+::
+
+ ── scRNAseq-data
+    ├─ scRNAseq_BasalCells.csv
+    ├─ scRNAseq_BCells.csv
+    ├─ scRNAseq_EndothelialCells.csv
+    ├─ scRNAseq_Fibroblasts.csv
+    ├─ scRNAseq_LuminalEpithelialCells.csv
+    ├─ scRNAseq_Macrophages.csv
+    └─ scRNAseq_TCells.csv
 
 **Output**
 

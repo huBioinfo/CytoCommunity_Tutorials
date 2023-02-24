@@ -1,4 +1,4 @@
-Step3: Consensus Clustering
+Step3: Unsupervised robust TCN determination
 ==========================================================
 
 .. toctree::

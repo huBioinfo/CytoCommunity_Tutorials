@@ -54,7 +54,7 @@ Step0: KNN-graph construction
 
 ::
 
- ── MERFISH_Brain_KNNgraph-data
+ ── MERFISH brain KNNgraph input data
     ├─ ImageName_CellTypeLabel.txt
     ├─ ImageName_Coordinates.txt
     ├─ ImageName_NodeAttr.txt
@@ -62,14 +62,14 @@ Step0: KNN-graph construction
 
 **Output**
 
+After this step, 
+
 ::
 
- ── scRNAseq-data
-    ├─ scRNAseq_BasalCells.csv
-    ├─ scRNAseq_BCells.csv
-    ├─ scRNAseq_EndothelialCells.csv
-    ├─ scRNAseq_Fibroblasts.csv
-    ├─ scRNAseq_LuminalEpithelialCells.csv
-    ├─ scRNAseq_Macrophages.csv
-    └─ scRNAseq_TCells.csv
+ ── MERFISH brain KNNgraph input data
+    ├─ ImageName_CellTypeLabel.txt
+    ├─ ImageName_Coordinates.txt
+    ├─ ImageName_NodeAttr.txt
+    ├─ ImageName_GraghIndex.txt
+    └─ ImageName_EdgeIndex.txt
 

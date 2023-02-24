@@ -245,8 +245,8 @@ For each fold in each round of the training process, this step generates a folde
     |  ├─ ModelPrediction.csv
     |  └─ TestSet_Pr_Pred_Truth.csv
     └─ Fold2
-    ……
+         ⋮
     └─ Fold10
   ── Time2   
-  ……  
+       ⋮
   ── Time10

@@ -125,6 +125,8 @@ Step3: Supervised robust TCN determination
 
 For each image, Step3 generates the following files: cluster assign matrix, node mask, gragh index and consensus label files of each fold in each run of the training process.
 
+::
+
  ── ImageCollection
     ├─ patient1
     |  ├─ ClusterAssignMatrix1_Time1_Fold1.csv

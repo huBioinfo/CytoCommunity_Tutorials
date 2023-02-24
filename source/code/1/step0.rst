@@ -52,6 +52,8 @@ Step0: KNN-graph construction
 
 **Input**
 
+The example input data to the unsupervised learning mode of CytoCommunity is a KNN graph based on mouse brain MERFISH data, including cell type labels, cell spatial coordinates, edge index, gragh index and node attributes files and an image name list.
+
 ::
 
  ── MERFISH brain KNNgraph input data
@@ -62,7 +64,7 @@ Step0: KNN-graph construction
 
 **Output**
 
-After this step, 
+We can use Step0 to construct KNN graghs and prepare data for the subsequent steps, and this step produces "EdgeIndex.txt" file for each input image.
 
 ::
 

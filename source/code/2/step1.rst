@@ -85,4 +85,12 @@ Step1: Data importing
 
 **Output**
 
-.. image:: ../../../image/Tutorial2/step1.png
+This step produces two file folders, "processed" and "raw", with the former containing three .pt files, named as pre_filter, pre_transform and SpatialOmicsImageDataset, and the latter being an empty folder at this point.
+
+::
+
+ ── processed
+    ├─ pre_filter.pt
+    ├─ pre_transform.pt
+    └─ SpatialOmicsImageDataset.pt
+ ── raw

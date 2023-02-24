@@ -141,10 +141,29 @@ Step4: Visualization
 
 **Output**
 
-The output is as follows:
+After this step, we will obtain single-cell spatial maps colored by identified TCNs associated with image conditions/labels.
 
-.. image:: ../../../image/Tutorial2/step4a.png
+::
 
+ ── CellType_Plot
+    ├─ CellType_patient1.pdf
+                ⋮
+    ├─ CellType_patient41.pdf
+    ├─ CellType_patient1.png
+                ⋮
+    └─ CellType_patient41.png
+ ── TargetGraphDF_File
+    ├─ TargetGraphDF_patient1.csv
+                    ⋮
+    └─ TargetGraphDF_patient41.csv
+ ── TCN_Plot
+    ├─ TCN_patient1.pdf
+              ⋮
+    ├─ TCN_patient41.pdf
+    ├─ TCN_patient1.png
+              ⋮
+    └─ TCN_patient41.png 
+    
 TCN plot:
 
 .. image:: ../../../image/Tutorial2/TCN.png

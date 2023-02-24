@@ -4,6 +4,8 @@ Step0: KNN-graph construction
 .. toctree::
    :maxdepth: 1
 
+**Code**
+
 ::
 
    from sklearn.neighbors import kneighbors_graph
@@ -48,6 +50,18 @@ Step0: KNN-graph construction
     np.savetxt(filename0, KNNgraph_EdgeIndex, delimiter='\t', fmt='%i')  #save as integers. Checked the bidirectional edges.
     print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
+**Input**
+
+``` txt
+── scRNAseq-data
+   ├─ scRNAseq_BasalCells.csv
+   ├─ scRNAseq_BCells.csv
+   ├─ scRNAseq_EndothelialCells.csv
+   ├─ scRNAseq_Fibroblasts.csv
+   ├─ scRNAseq_LuminalEpithelialCells.csv
+   ├─ scRNAseq_Macrophages.csv
+   └─ scRNAseq_TCells.csv
+```
 
 **Output**
 

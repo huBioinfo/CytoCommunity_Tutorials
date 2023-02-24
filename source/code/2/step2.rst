@@ -229,7 +229,19 @@ Step2: Supervised soft TCN assignment
  print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
 
-
 **Output**
 
-.. image:: ../../../image/Tutorial2/step2.png
+For each fold in each round of the training process, this step generates a folder that contains cluster adjacent matrix, cluster assignment matrix, gragh index, and node mask files and a training loss file.
+
+::
+
+ ── Time1
+    ├─ Fold1
+      ├─ ClusterAdjMatrix1_0.csv
+      ├─ ClusterAssignMatrix1_0.csv
+      ├─ GraphIdx_0.csv
+      ├─ NodeMask_0.csv
+      ├─ Epoch_TrainLoss.csv
+      ├─ ModelPrediction.csv
+      └─ TestSet_Pr_Pred_Truth.csv
+    

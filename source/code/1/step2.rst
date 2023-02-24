@@ -165,4 +165,15 @@ Step2: Unsupervised soft TCN assignment
 
 **Output**
 
-.. image:: ../../../image/Tutorial1/step2.png
+This step generates a folder for each run that contains a cluster adjacent matrix, a cluster assignment matrix, a node mask, a gragh index file and a loss recording file. Here we take Run1 for an example as follows:
+
+::
+
+ ── Run1
+    ├─ ClusterAdjMatrix1.csv
+    ├─ ClusterAssignMatrix1.csv
+    ├─ Epoch_TrainLoss.csv
+    ├─ GraphIdx.csv
+    └─ NodeMask.csv
+    
+    

@@ -33,7 +33,7 @@ Step3: Unsupervised robust TCN determination
 
 **Output**
 
-This step generates a "ConsensusLabel_MajorityVoting.csv" file to show the result of the majority voting.
+The result of this step will be saved in the "ConsensusLabel_MajorityVoting.csv" file. 
 
 ::
 

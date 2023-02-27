@@ -91,7 +91,8 @@ This step produces two file folders, "processed" and "raw", with the former cont
     └─ SpatialOmicsImageDataset.pt
  ── raw
  
+ 
  **Hyperparameters**
  
- max_node: 
+ max_node: The max number of nodes in each image.
  

@@ -92,7 +92,7 @@ This step produces two file folders, "processed" and "raw", with the former cont
  ── raw
  
  
- **Hyperparameters**
+**Hyperparameters**
  
- max_node: The max number of nodes in each image.
+max_node: The max number of nodes in each image.
  

@@ -13,7 +13,7 @@ Step1: Data importing
  from torch_geometric.data import Data, InMemoryDataset
 
 
- # Hyper-parameters
+ # Hyperparameters
  max_nodes = 6000   # This number must be higher than the largest number of cells in each image in the studied dataset.
  InputFolderName = "./MERFISH_Brain_KNNgraph_Input/"
 
@@ -90,3 +90,8 @@ This step produces two file folders, "processed" and "raw", with the former cont
     ├─ pre_transform.pt
     └─ SpatialOmicsImageDataset.pt
  ── raw
+ 
+ **Hyperparameters**
+ 
+ max_node: 
+ 

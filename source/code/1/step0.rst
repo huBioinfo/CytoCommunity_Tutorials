@@ -4,7 +4,6 @@ Step0: KNN-graph construction
 .. toctree::
    :maxdepth: 1
 
-**Code**
 
 ::
 
@@ -74,4 +73,8 @@ We use Step0 to construct KNN graghs and prepare data for the subsequent steps, 
     ├─ ImageName_NodeAttr.txt
     ├─ ImageName_GraghIndex.txt
     └─ ImageName_EdgeIndex.txt
+
+**Hyperparameter**
+
+KNN_K: The K value in the KNN gragh
 

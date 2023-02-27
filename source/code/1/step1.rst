@@ -94,5 +94,5 @@ This step produces two file folders, "processed" and "raw", with the former cont
  
 **Hyperparameters**
  
-max_node: The largest number of nodes in each KNN gragh, higher than the largest number of cells in each image in the studied dataset
+max_node: The largest number of nodes in each KNN gragh, higher than the largest number of cells in each image in the studied dataset.
  

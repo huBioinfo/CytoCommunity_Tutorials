@@ -76,5 +76,5 @@ We use Step0 to construct KNN graghs and prepare data for the subsequent steps, 
 
 **Hyperparameters**
 
-KNN_K: The K value in the KNN gragh
+KNN_K: The K value in the KNN gragh.
 

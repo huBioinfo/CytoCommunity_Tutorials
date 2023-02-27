@@ -49,6 +49,12 @@ Step0: KNN-graph construction
     np.savetxt(filename0, KNNgraph_EdgeIndex, delimiter='\t', fmt='%i')  #save as integers. Checked the bidirectional edges.
     print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
+
+**Hyperparameters**
+
+KNN_K: The K value in the KNN gragh.
+
+
 **Input**
 
 The example input data to the unsupervised learning mode of CytoCommunity is a KNN graph based on mouse brain MERFISH data, including cell type labels, cell spatial coordinates, edge index, gragh index and node attributes files and an image name list.
@@ -73,8 +79,4 @@ We use Step0 to construct KNN graghs and prepare data for the subsequent steps, 
     ├─ ImageName_NodeAttr.txt
     ├─ ImageName_GraghIndex.txt
     └─ ImageName_EdgeIndex.txt
-
-**Hyperparameters**
-
-KNN_K: The K value in the KNN gragh.
 

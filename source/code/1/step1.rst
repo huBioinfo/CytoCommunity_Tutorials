@@ -79,6 +79,12 @@ Step1: Data importing
  dataset = SpatialOmicsImageDataset('./', transform=T.ToDense(max_nodes))                 
 
 
+
+**Hyperparameters**
+ 
+max_node: The largest number of nodes in each KNN gragh, higher than the largest number of cells in each image in the studied dataset.
+
+
 **Output**
 
 This step produces two file folders, "processed" and "raw", with the former containing three .pt files, named as pre_filter, pre_transform and SpatialOmicsImageDataset, and the latter being an empty folder at this point.
@@ -90,9 +96,4 @@ This step produces two file folders, "processed" and "raw", with the former cont
     ├─ pre_transform.pt
     └─ SpatialOmicsImageDataset.pt
  ── raw
- 
- 
-**Hyperparameters**
- 
-max_node: The largest number of nodes in each KNN gragh, higher than the largest number of cells in each image in the studied dataset.
  

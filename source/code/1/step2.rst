@@ -165,14 +165,13 @@ Step2: Unsupervised soft TCN assignment
 
 **Hyperparameters**
 
-::
 
- max_nodes: The largest number of nodes in each KNN gragh, higher than the largest number of cells in each image in the studied dataset.
- Num_Run: The number of runs.
- Num_Epoch: The number of training epochs.
- Num_TCN: The number of TCNs.
- Num_Dimension: The dimension of the representation vector.
- LearningRate: A tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function.
+- max_nodes: The largest number of nodes in each KNN gragh, higher than the largest number of cells in each image in the studied dataset.
+- Num_Run: The number of runs.
+- Num_Epoch: The number of training epochs.
+- Num_TCN: The number of TCNs.
+- Num_Dimension: The dimension of the representation vector.
+- LearningRate: A tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function.
  
 
 **Output**

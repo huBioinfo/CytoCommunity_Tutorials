@@ -172,8 +172,8 @@ Step2: Unsupervised soft TCN assignment
  Num_Epoch: The number of epochs.
  Num_TCN: The number of TCNs.
  Num_Dimension: The dimension of the vetor.
- LearningRate: The learning rate.
-
+ LearningRate: A tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function.
+ 
 
 **Output**
 

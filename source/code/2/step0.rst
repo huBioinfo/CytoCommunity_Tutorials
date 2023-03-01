@@ -49,6 +49,11 @@ Step0: KNN-graph construction
     print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
 
+**Hyperparameters**
+
+- KNN_K: The K value in the KNN gragh.
+
+
 **Input**
 
 The example input data of this part is a KNN graph constructed based on MIBI-TNBC data, including a image name list and cell type label, cell spatial coordinate, edge index, gragh index, gragh label and node attribute files. Here we take patient1 for an example as follows:

@@ -232,7 +232,7 @@ Step2: Supervised soft TCN assignment
 **Hyperparameters**
 
 - max_nodes: The largest number of nodes in each KNN gragh, higher than the largest number of cells in each image in the studied dataset.
-- beta: 
+- beta: A weight parameter to balance the minimum cut loss of gragh partitioning and the cross-entropy loss of gragh classification.
 - Num_TCN: The number of TCNs.
 - Num_Epoch: The number of training epochs.
 - Num_Dimension: The dimension of the representation vector.

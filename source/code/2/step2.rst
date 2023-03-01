@@ -229,6 +229,16 @@ Step2: Supervised soft TCN assignment
  print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
 
+**Hyperparameters**
+
+- max_nodes: The largest number of nodes in each KNN gragh, higher than the largest number of cells in each image in the studied dataset.
+- Num_Run: The number of runs.
+- Num_Epoch: The number of training epochs.
+- Num_TCN: The number of TCNs.
+- Num_Dimension: The dimension of the representation vector.
+- LearningRate: A tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function.
+ 
+
 **Output**
 
 For each fold in each round of the training process, this step generates a folder that contains cluster adjacent matrix, cluster assignment matrix, gragh index, and node mask files and a training loss file.

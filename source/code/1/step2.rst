@@ -163,6 +163,16 @@ Step2: Unsupervised soft TCN assignment
  print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
 
+**Hyperparameters**
+
+max_nodes: higher than the largest number of cells in each image in the studied dataset.
+Num_Run: 
+Num_Epoch: The number of epochs.
+Num_TCN: The number of TCNs.
+Num_Dimension: The dimension of the vetor.
+LearningRate: 
+
+
 **Output**
 
 This step generates a folder for each run that contains a cluster adjacent matrix, a cluster assignment matrix, a node mask, a gragh index file and a loss recording file.

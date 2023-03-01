@@ -237,7 +237,7 @@ Step2: Supervised soft TCN assignment
 - Num_Epoch: The number of training epochs.
 - Num_Dimension: The dimension of the representation vector.
 - LearningRate: A tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function.
-- MinBatchSize: 
+- MinBatchSize: The minimum number of data samples captured in a training process.
 
 
 **Output**

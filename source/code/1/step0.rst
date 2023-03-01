@@ -52,7 +52,9 @@ Step0: KNN-graph construction
 
 **Hyperparameters**
 
-KNN_K: The K value in the KNN gragh.
+::
+
+ KNN_K: The K value in the KNN gragh.
 
 
 **Input**

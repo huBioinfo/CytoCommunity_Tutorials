@@ -165,12 +165,12 @@ Step2: Unsupervised soft TCN assignment
 
 **Hyperparameters**
 
-max_nodes: higher than the largest number of cells in each image in the studied dataset.
-Num_Run: 
+max_nodes: The largest number of nodes in each KNN gragh, higher than the largest number of cells in each image in the studied dataset.
+Num_Run: The number of runs.
 Num_Epoch: The number of epochs.
 Num_TCN: The number of TCNs.
 Num_Dimension: The dimension of the vetor.
-LearningRate: 
+LearningRate: The learning rate.
 
 
 **Output**

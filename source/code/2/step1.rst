@@ -82,6 +82,10 @@ Step1: Data importing
  dataset = SpatialOmicsImageDataset('./', transform=T.ToDense(max_nodes))             
 
 
+**Hyperparameters**
+
+- max_node: The largest number of nodes in each KNN gragh, higher than the largest number of cells in each image in the studied dataset.
+
 
 **Output**
 

@@ -139,7 +139,7 @@ For each image, Step3 generates the following files: cluster assign matrix, node
     |  ├─            ⋮
     |  ├─ NodeMask_Time10_Fold10.csv
     |  └─ ConsensusLabel_MajorityVoting.csv
-    ├─ patien2
+    ├─ patient2
     |     ⋮
     └─ patient41
 

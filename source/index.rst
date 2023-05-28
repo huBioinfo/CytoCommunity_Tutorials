@@ -26,5 +26,5 @@ CytoCommunity is the first computational tool for end-to-end unsupervised and su
 Citation
 ================
 
-Hu Y, Rong J, Xie R, Xu Y, Peng J, Gao L, Tan K. Learning predictive models of tissue cellular neighborhoods from cell phenotypes with graph pooling. *bioRxiv*, 2022.
+- Hu Y, Rong J, Xie R, Xu Y, Peng J, Gao L, Tan K. Learning predictive models of tissue cellular neighborhoods from cell phenotypes with graph pooling. *bioRxiv*, 2022.
 https://www.biorxiv.org/content/10.1101/2022.11.06.515344v1

@@ -27,7 +27,7 @@ Step2: Supervised soft TCN assignment
  beta = 0.9
  Num_TCN = 2
  Num_Epoch = 100
- Num_Dimension = 256
+ Num_Dimension = 512
  LearningRate = 0.0001
  MinBatchSize = 16
 
